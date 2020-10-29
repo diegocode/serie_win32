@@ -1,6 +1,6 @@
 # serie_win32
 
-HANDLE abrir_port(unsigned char port);
+´HANDLE abrir_port(unsigned char port);
 
 void cerrar_port(HANDLE);
 
@@ -21,4 +21,4 @@ int leer_chars(HANDLE ports, unsigned char*, unsigned char);
 
 int escribir_string(HANDLE ports,unsigned char*);
 
-int leer_string(HANDLE ports, unsigned char*);
+int leer_string(HANDLE ports, unsigned char*);'
